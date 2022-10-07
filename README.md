@@ -6,7 +6,7 @@
 <h1 align="center"> Miku Nakano (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by PebriTermux to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com/FantoX001/Miku-MD/fork">
@@ -39,7 +39,7 @@
 1. Copyright Free.
 2. No Source Code Encryption.
 3. Most commands.
-4. Singe prefix ("-").
+4. Singe prefix (".").
 5. Self restoration.
 6. No API key needed!
 7. Full premission to Recode.
